@@ -48,6 +48,7 @@
         "passport-google-oauth20": "^2.0.0",
         "passport-strategy": "^1.0.0",
         "status-code-enum": "^1.0.0",
+        "tsc": "^2.0.4",
         "tsc-watch": "^6.2.0",
         "uuid": "^9.0.1"
     },
